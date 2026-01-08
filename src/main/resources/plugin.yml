@@ -1,0 +1,21 @@
+name: AdvancedKill
+version: '1.0-SNAPSHOT'
+main: de.marc.advancedKill.AdvancedKill
+api-version: '1.21'
+
+commands:
+  akill:
+    description: aKill Command
+    usage: /akill <mode> <player>
+
+  afilter:
+    description: Filter Players
+    usage: /afilter <player>
+
+permissions:
+  akill.use:
+    description: Can use /akill
+    default: op
+  akill.admin:
+    description: Can use /afilter
+    default: op

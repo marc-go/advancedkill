@@ -1,0 +1,8 @@
+# Active Filter Function
+
+filter-player: true
+
+# To filter player, run /afilter <player> to filter players
+
+# Filter List
+bypass-players: []
