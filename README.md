@@ -6,7 +6,7 @@ The /kill Command is a littelbit borring, isn't it? But, there is the AdvancedKi
 You can kill players with many different method, for example with an explosion or a lightning.
 
 ## Methods:
-- anvil - place an anvil above
+- anvil - place an anvil above the player
 - fall - teleports the player to high 300
 - explosion - makes an explosion by the player
 - lightning - summons a lightning by the player
